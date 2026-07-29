@@ -1,7 +1,7 @@
 {
-  "name": "sofie bot",
+  "name": "sofia bot",
   "version": "1.0.0",
-  "description": "sofie WhatsApp Bot — a powerful, fun and intelligent bot packed with extra features, AI capabilities and a sleek futuristic design",
+  "description": "sofia WhatsApp Bot — a powerful, fun and intelligent bot packed with extra features, AI capabilities and a sleek futuristic design",
   "main": "index.js",
   "type": "module",
   "scripts": {
